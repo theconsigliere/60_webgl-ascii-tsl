@@ -38,7 +38,6 @@ export default class Sketch {
     this.resize()
     this.render()
     this.setupResize()
-    // this.settings();
   }
 
   settings() {
